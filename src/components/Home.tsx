@@ -12,7 +12,7 @@ const productos = [
   { id: 4, nombre: 'Silla de Entrenamiento', precio: '$229.99', imagen: '/models/img/rack.jpg' },
   { id: 5, nombre: 'Silla de Entrenamiento', precio: '$229.99', imagen: '/images/product4.jpg' },
   { id: 6, nombre: 'Silla de Entrenamiento', precio: '$229.99', imagen: '/images/product4.jpg' },
-  { id: 7, nombre: 'Silla de Entrenamiento', precio: '$229.99', imagen: '/images/product4.jpg' },
+  { id: 7, nombre: 'Silla de Entrenamiento', precio: '$300.99', imagen: '/images/product4.jpg' },
 ];
 
 const Home: React.FC = () => {
